@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UnrealProjects\\ObstacleCourse\\Source\\ObstacleCourse\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\ObstacleCourse\\.vscode\\compileCommands_ObstacleCourse\\ObstacleCourse.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\ObstacleCourse\\Source\\ObstacleCourse\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\ObstacleCourse\\.vscode\\compileCommands_ObstacleCourse\\ObstacleCourse.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\ObstacleCourse\\.vscode\\compileCommands_ObstacleCourse\\ObstacleCourse.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\ObstacleCourse\\.vscode\\compileCommands_ObstacleCourse\\ObstacleCourse.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\ObstacleCourse\\.vscode\\compileCommands_ObstacleCourse\\ObstacleCourse.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
